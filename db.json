@@ -431,17 +431,15 @@
     }
   ],
   "todos": [
-    [
-      {
-      "id": 1,
-      "title": "buy veggies",
-      "status": false
-      },
-      {
-      "title": "learn react",
-      "status": false,
-      "id": 2
-      }
-      ]
+    {
+    "id": 1,
+    "title": "buy veggies",
+    "status": false
+    },
+    {
+    "title": "learn react",
+    "status": false,
+    "id": 2
+    }
   ]
 }
