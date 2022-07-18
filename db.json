@@ -358,5 +358,20 @@
 			"address": "Bannerghatta"
 		}
 	],
-	"doctors": []
+	"doctors": [
+    {
+      "id":1,
+      "name":"Rishabh",
+      "hospital": "Fortis",
+      "specialisation": "Nephron Surgery",
+      "salary": 85
+    },
+    {
+      "id":2,
+      "name":"Swapnil",
+      "hospital": "Apollo",
+      "specialisation": "Dental Surgery",
+      "salary": 55
+    }
+  ]
 }
