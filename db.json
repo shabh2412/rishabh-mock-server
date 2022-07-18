@@ -360,18 +360,32 @@
 	],
 	"doctors": [
     {
-      "id":1,
-      "name":"Rishabh",
+      "id": 1,
+      "name": "Rishabh",
       "hospital": "Fortis",
       "specialisation": "Nephron Surgery",
       "salary": 85
     },
     {
-      "id":2,
-      "name":"Swapnil",
+      "id": 2,
+      "name": "Swapnil",
       "hospital": "Apollo",
       "specialisation": "Dental Surgery",
       "salary": 55
+    },
+    {
+      "name": "Rishabh Panesar",
+      "hospital": "Fortis",
+      "specialisation": "General Physician",
+      "salary": 45,
+      "id": 3
+    },
+    {
+      "name": "Pawan Kolhe",
+      "hospital": "MGM Hospital - Vashi",
+      "specialisation": "Ophthalmology",
+      "salary": 20,
+      "id": 4
     }
   ]
 }
