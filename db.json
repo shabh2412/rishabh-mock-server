@@ -1408,7 +1408,7 @@
 		},
 		{
 			"id": 40,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Blue & Grey Melange Dyed T-shirt",
 			"price": {
 				"mrp": 949,
@@ -1546,7 +1546,7 @@
 		},
 		{
 			"id": 46,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Olive Green Solid Round Neck Pure Cotton T-shirt",
 			"price": {
 				"mrp": 1499,
@@ -1569,7 +1569,7 @@
 		},
 		{
 			"id": 47,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Black Printed Henley T-shirt",
 			"price": {
 				"mrp": 799,
@@ -1698,7 +1698,7 @@
 		},
 		{
 			"id": 52,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Black Printed Henley T-shirt",
 			"price": {
 				"mrp": 799,
@@ -1783,7 +1783,7 @@
 		},
 		{
 			"id": 55,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Black Printed Henley T-shirt",
 			"price": {
 				"mrp": 799,
@@ -1810,7 +1810,7 @@
 		},
 		{
 			"id": 56,
-			"brand_name": "HERE&NOW",
+			"brand_name": "HEREnNOW",
 			"name": "Men Burgundy Brand Logo Embossed Pure Cotton T-shirt",
 			"price": {
 				"mrp": 1999,
@@ -3543,7 +3543,7 @@
 	"myntra_db": [
 		{
 			"name": "HERENOW Men Black Solid Round Neck Pure Cotton T-shirt",
-			"brand": "HERE&NOW",
+			"brand": "HEREnNOW",
 			"price": 239,
 			"oldPrice": 599,
 			"category": "tshirt",
@@ -3561,7 +3561,7 @@
 		},
 		{
 			"name": "HERENOW Men Navy Blue White Printed Round Neck Pure Cotton T-shirt",
-			"brand": "HERE&NOW",
+			"brand": "HEREnNOW",
 			"price": 399,
 			"category": "tshirt",
 			"section": "men",
@@ -3579,7 +3579,7 @@
 		},
 		{
 			"name": "Men Red & White Floral Printed T-shirt",
-			"brand": "HERE&NOW",
+			"brand": "HEREnNOW",
 			"price": 399,
 			"category": "tshirt",
 			"section": "men",
@@ -3596,7 +3596,7 @@
 		},
 		{
 			"name": "HERENOW Men Mustard Yellow Black Colourblocked Polo Collar Pure Cotton T-shirt",
-			"brand": "HERE&NOW",
+			"brand": "HEREnNOW",
 			"price": 649,
 			"category": "tshirt",
 			"section": "men",
