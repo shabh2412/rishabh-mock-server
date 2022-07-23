@@ -3527,7 +3527,8 @@
 			"email": "guest@myntra.com",
 			"password": "1234",
 			"wishlist": [],
-			"orders": []
+			"orders": [],
+			"cart": []
 		},
 		{
 			"id": 2,
@@ -3537,7 +3538,8 @@
 			"email": "rishabh@masaischool.com",
 			"password": "1234",
 			"wishlist": [],
-			"orders": []
+			"orders": [],
+			"cart": []
 		}
 	],
 	"myntra_db": [
